@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shohidul Islam
+#### Education: Diploma in Engineering (Computer Department)
 <p>
 👑 I am Web Developer <br> 
-🖊️ Love to write code <br></p> 
 
 ![Profile views](https://gpvc.arturio.dev/hzshohidul)
 
