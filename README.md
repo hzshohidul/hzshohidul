@@ -1,7 +1,19 @@
 ### Hi there 👋, I'm Shohidul Islam
-#### Degree: Diploma in Engineering (Computer Department)
-![Diploma in Computer Engineer](https://media.licdn.com/dms/image/D5616AQHaSazP1po2oQ/profile-displaybackgroundimage-shrink_350_1400/0/1679653630052?e=1684972800&v=beta&t=YX8VSw3YRsOTH9YF3HV54VxBtQ2ZjQrn37zU_tEYZiY)
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br></p> 
 
+![Profile views](https://gpvc.arturio.dev/hzshohidul)
+
+## 🚀 Career Objective:
 To work with a position where sincerity, dedication, strong communication, leadership skill and attention to details are essential to strive for excellence as well as to take the institution to its goal and advance on my career path. I would like to show my aspiration to become a quick learner and to prove myself as a sincere and energetic person through extensive hard working and integrity.
 
-Skills: PHP Laravel WordPress
+## 👨‍💻 Skills & Experiance: 
+✅ Laravel <br> 
+✅ PHP <br>
+✅ WordPress <br>
+✅ HTML5 / CSS3 / Bootstrap / jQuery <br>
+✅ Photoshop <br>
+
+## 📧 hzshohidulislam@gmail.com
+
