@@ -17,3 +17,6 @@ To work with a position where sincerity, dedication, strong communication, leade
 
 ## 📧 hzshohidulislam@gmail.com
 ## 📞 01762-414071
+  
+## Resume
+https://drive.google.com/file/d/1CdmsF5gps8xVd2WtxcY2khDy2iAIgSQm/view?usp=sharing
