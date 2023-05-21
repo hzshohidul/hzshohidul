@@ -13,6 +13,7 @@ To work with a position where sincerity, dedication, strong communication, leade
 ✅ Vue JS <br>
 ✅ Rest API <br>
 ✅ PHP <br>
+✅ SQL, MYSQL <br>
 ✅ Javascript <br>
 ✅ Ajax <br>
 ✅ WordPress <br>
