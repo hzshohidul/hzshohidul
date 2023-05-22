@@ -19,10 +19,6 @@ To work with a position where sincerity, dedication, strong communication, leade
 ✅ WordPress <br>
 ✅ HTML5 / CSS3 / Bootstrap / jQuery <br>
 ✅ Photoshop, Illustrator <br>
-✅ Laravel+Vue(Learn) <br>
-✅ Laravel+React(Learn) <br>
-✅ Laravel+jQuery(Learn) <br>
-✅ Laravel+Ajax(Learn) <br>
 
 ## 📧 hzshohidulislam@gmail.com
 ## 📞 01762-414071
