@@ -16,6 +16,10 @@ To work with a position where sincerity, dedication, strong communication, leade
 ✅ SQL, MYSQL <br>
 ✅ Javascript <br>
 ✅ Ajax <br>
+✅ Laravel+Vue(Learn) <br>
+✅ Laravel+React(Learn) <br>
+✅ Laravel+jQuery(Learn) <br>
+✅ Laravel+Ajax(Learn) <br>
 ✅ WordPress <br>
 ✅ HTML5 / CSS3 / Bootstrap / jQuery <br>
 ✅ Photoshop, Illustrator <br>
