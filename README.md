@@ -3,7 +3,7 @@
 <p>
 👑 I am Full Stack Web Developer <br> 
 
-![Profile views](https://gpvc.arturio.dev/hzshohidul)
+[Profile views](https://gpvc.arturio.dev/hzshohidul)
 
 ## 🚀 Career Objective:
 To work with a position where sincerity, dedication, strong communication, leadership skill and attention to details are essential to strive for excellence as well as to take the institution to its goal and advance on my career path. I would like to show my aspiration to become a quick learner and to prove myself as a sincere and energetic person through extensive hard working and integrity.
